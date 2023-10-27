@@ -1,0 +1,7 @@
+{
+  "name": "stutrade",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
